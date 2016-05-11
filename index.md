@@ -11,4 +11,5 @@ I have a broader putative interest in extending my research to the interface of 
 
 Contact me at samuel.craig.evans@gmail.com
 
-I am working towards proficiently sharing my data and source code on [GitHub](https://github.com/scevans). I also have been known [tweet](https://twitter.com/sc_evans) from time to time.
+I am working towards proficiently sharing my data and source code on [GitHub](https://github.com/scevans). 
+I have been known to [tweet](https://twitter.com/sc_evans) from time to time.
