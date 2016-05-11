@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![photo by Sean McCann, ibycter.com](https://github.com/scevans/scevans.github.io/images/Sam_fries_Sept2014.jpg)
+![photo by Sean McCann, ibycter.com](https://raw.githubusercontent.com/scevans/scevans.github.io/master/images/Sam_fries_Sept2014.jpg)
 
 My dissertation involves a multi-faceted approach to understanding jumping spider (Araneae: Salticidae) evolution, grounded in molecular phylogenetics.
 
