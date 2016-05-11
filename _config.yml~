@@ -1,21 +1,21 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+rouge:         true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            matthew pennell
+title:            Samuel Evans
 tagline:          'evolutionary biologist'
-description:      'Evolutionary biologist at the University of British Columbia <a href="https://twitter.com/mwpennell" target="_blank">@mwpennell</a>' 
-url:              http://mwpennell.github.io
+description:      'Evolutionary Biology PhD Student at the University of British Columbia <a href="https://twitter.com/sc_evans" target="_blank">@sc_evans</a>' 
+url:              http://scevans.github.io
 
 author:
-  name:           'Matthew Pennell'
-  url:            https://twitter.com/mwpennell
+  name:           'Samuel Evans'
+  url:            https://twitter.com/sc_evans
 
 # paginate:         5
 
 github:
-  repo:           https://github.com/mwpennell/mwpennell.github.io
+  repo:           https://github.com/scevans/scevans.github.io
