@@ -3,13 +3,14 @@ layout: page
 title: Research
 ---
 
-The overarching theme in my research thus far concerns developing programmatic pipelines to integrate vsequence data obtained from different methods (e.g. transcriptomics, anchored enrichment) for phylogenetic analyses. Beyond this, I am endeavoring to build a toolkit of experience in systematics and informatics applicable to broad questions in evolutionary biology and interfacing fields.
+
+The overarching theme in my research thus far concerns developing programmatic pipelines to integrate anchored nuclear and transcriptome sequence data for phylogenetic analyses. Beyond this, I am endeavoring to build a toolkit of experience in systematics and informatics applicable to broad questions in evolutionary biology and interfacing fields.
 
 ## Resolving deep relationships among the Salticidae via phylogenomics
 
 I am working to better resolve relationships among the major Salticidae clades, using phylogenomics techniques to acquire hundreds of phylogenetically-informative loci per organism.
 
-To obtain these sequence data, I am using [anchored enrichment](http://anchoredphylogeny.com/), a probe-based technique that has been demonstrated to reliably capture several hundred unlinked nuclear loci per specimen. I aim to add to this dataset transcriptome data from additional taxa, both within the Salticidae and representatives of closely-related families within the large [RTA clade](https://en.wikipedia.org/wiki/RTA_clade) of predominantly cursorial spiders.
+To obtain these sequence data, I am using [anchored enrichment](http://anchoredphylogeny.com/), a technique that uses broad probe sets to sequence hundreds of unlinked "anchored" regions in the genome. I aim to combine these data with transcriptomes from additional taxa, both within the Salticidae and representatives of closely-related families within the large [RTA clade](https://en.wikipedia.org/wiki/RTA_clade) of predominantly cursorial spiders.
 
 ## A genome-wide phylogeny of the Harmochirina
 
