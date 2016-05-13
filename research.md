@@ -8,9 +8,7 @@ The overarching theme in my research thus far concerns developing programmatic p
 
 ## Resolving deep relationships among the Salticidae via phylogenomics
 
-I am working to better resolve relationships among the major Salticidae clades, using phylogenomics techniques to acquire hundreds of phylogenetically-informative loci per organism.
-
-To obtain these sequence data, I am using [anchored enrichment](http://anchoredphylogeny.com/), a technique that uses broad probe sets to sequence hundreds of unlinked "anchored" regions in the genome. I aim to combine these data with transcriptomes from additional taxa, both within the Salticidae and representatives of closely-related families within the large [RTA clade](https://en.wikipedia.org/wiki/RTA_clade) of predominantly cursorial spiders.
+I am working to better resolve relationships among the major Salticidae clades, via an integrative phylogenomic approach. I am using [anchored enrichment](http://anchoredphylogeny.com/), a technique that uses broad probe sets to sequence hundreds of unlinked "anchored" regions in the genome. I aim to combine these data with transcriptomes from additional taxa, both within the Salticidae and representatives of closely-related families within the large [RTA clade](https://en.wikipedia.org/wiki/RTA_clade) of predominantly cursorial spiders.
 
 ## A genome-wide phylogeny of the Harmochirina
 
