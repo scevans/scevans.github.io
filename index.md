@@ -16,3 +16,5 @@ Contact me at [samuel.craig.evans@gmail.com](mailto:samuel.craig.evans@gmail.com
 I am working towards proficiently sharing my data and source code on [GitHub](https://github.com/scevans).
 
 I have been known to [tweet](https://twitter.com/sc_evans) from time to time.
+
+![observing a riparian lycosid on Vancouver Island](https://raw.githubusercontent.com/scevans/scevans.github.io/master/images/Sam_beach_Royston.jpg)
