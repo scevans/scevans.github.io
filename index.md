@@ -17,4 +17,4 @@ I am working towards proficiently sharing my data and source code on [GitHub](ht
 
 I have been known to [tweet](https://twitter.com/sc_evans) from time to time.
 
-![observing a riparian lycosid on Vancouver Island](https://raw.githubusercontent.com/scevans/scevans.github.io/master/images/Sam_beach_Royston.jpg)
+![observing a riparian lycosid on Vancouver Island](https://raw.githubusercontent.com/scevans/scevans.github.io/master/images/sam_beach_Royston.jpg)
