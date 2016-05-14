@@ -3,9 +3,11 @@ layout: page
 title: Publications
 ---
 
-## [my Google Scholar page](http://scholar.google.com/citations?hl=en&user=1uLTMjgAAAAJ)
+[Google Scholar](http://scholar.google.com/citations?hl=en&user=1uLTMjgAAAAJ)
 
-Rittman S, KM Wrinn, **SC Evans**, AW Webb, AL Rypstra. 2013. Glyphosate-based herbicide has contrasting effects on prey capture by two co-occurring wolf spider species. Journal of Chemical Ecology 39:1247-1253. [[doi]](http://link.springer.com/article/10.1007%2Fs10886-013-0353-5) [[pdf]]({{url}}/pdfs/Rittman-et-al-2013-JChemEcol.pdf) <img style="float: right;" src="https://raw.githubusercontent.com/scevans/scevans.github.io/master/images/jchemecol-oct2013cover.jpg">
+
+<img style="float: right;" src="https://raw.githubusercontent.com/scevans/scevans.github.io/master/images/jchemecol-oct2013cover.jpg">
+Rittman S, KM Wrinn, **SC Evans**, AW Webb, AL Rypstra. 2013. Glyphosate-based herbicide has contrasting effects on prey capture by two co-occurring wolf spider species. Journal of Chemical Ecology 39:1247-1253. [[doi]](http://link.springer.com/article/10.1007%2Fs10886-013-0353-5) [[pdf]]({{url}}/pdfs/Rittman-et-al-2013-JChemEcol.pdf)
 
 Wrinn KM, **SC Evans**, AL Rypstra. 2012. Predator cues and an herbicide affect activity and emigration in an agrobiont wolf spider. Chemosphere 87: 390-396. [[doi]](http://www.sciencedirect.com/science/article/pii/S0045653511013993) [[pdf]]({{url}}/pdfs/Wrinn-et-al-2012-Chemosphere.pdf)
 
