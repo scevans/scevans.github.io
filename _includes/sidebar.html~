@@ -26,7 +26,7 @@
         {% endif %}
       {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{url}}/pdfs/Evans_Samuel_background_7Mar2016.pdf" target="_blank">CV</a>
+    <a class="sidebar-nav-item" href="{{url}}/pdfs/Evans_Samuel_background_7Mar2016.pdf" target="_blank">Brief CV</a>
     <a class="sidebar-nav-item" href="https://github.com/scevans" target="_blank">GitHub</a>
     <a class="sidebar-nav-item" href="https://twitter.com/sc_evans" target="_blank">@sc_evans</a>
   </div>
